@@ -15,7 +15,7 @@ This project displays a daily quote to the user. It also shows the current date 
 
 ## Usage
 
-Simply navigate to https://quote.neevchandiramani.com/ to view the daily quote. 
+Simply navigate to https://quote.neevchandiramani.com/ to view today's quote. 
 
 ## Contributing
 
