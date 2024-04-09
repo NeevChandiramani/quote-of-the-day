@@ -1,0 +1,22 @@
+body {
+    background-color: #1e1e1e;
+    color: #fff;
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    max-width: 600px;
+    margin: 100px auto;
+    text-align: center;
+}
+
+.quote-container {
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #333;
+}
+
+.quote {
+    font-size: 24px;
+    font-style: italic;
+}
