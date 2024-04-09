@@ -1,5 +1,3 @@
-# quote of the day
- 
 # Quote of the Day
 
 This project displays a daily quote to the user. It also shows the current date and time.
