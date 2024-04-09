@@ -22,3 +22,9 @@ async function displayQuote() {
 window.addEventListener('DOMContentLoaded', (event) => {
     displayQuote();
 });
+
+window.onload = function() {
+    var now = new Date();
+    var dateTimeDiv = document.getElementById('date-time');
+    dateTimeDiv.innerHTML = now.toLocaleDateString() + ' ' + now.toLocaleTimeString();
+};
