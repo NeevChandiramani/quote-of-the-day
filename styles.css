@@ -14,9 +14,39 @@ body {
     padding: 20px;
     border-radius: 10px;
     background-color: #333;
+    margin-bottom: 20px;
 }
 
 .quote {
     font-size: 24px;
     font-style: italic;
+    margin-bottom: 10px;
+}
+
+.author {
+    font-size: 18px;
+    color: #ccc;
+}
+
+.refresh-btn {
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.refresh-btn:hover {
+    background-color: #45a049;
+}
+
+#date-time {
+    position: fixed;
+    top: 20px;
+    right: 20px;
+    font-size: 14px;
+    color: #ccc;
 }
