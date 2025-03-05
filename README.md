@@ -10,7 +10,7 @@ This project displays a daily quote to the user. It also shows the current date 
 - Mobile responsive 
 - Simple and clean design 
 - Easy to use
-- No ads - tracking - cookies
+- No ads - No tracking - No cookies
 
 
 ## Usage
